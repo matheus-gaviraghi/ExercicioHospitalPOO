@@ -7,3 +7,4 @@ Os requisitos deste exercício foram:
 - Implementar classe abstrata e final
 - Definir todos os atributos como private e usar getters e setters para manipulá-los
 - Criar ao menos um construtor por classe
+- Sobreescrita do método equals
